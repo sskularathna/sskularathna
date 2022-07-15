@@ -15,7 +15,7 @@
   </a>
   
   <a href="https://social.trom.tf/profile/sujee">
-    <img src="https://user-images.githubusercontent.com/107795508/179223361-708ea12d-0a9b-4fec-8ffa-0aadf492a52c.png" width="40" height="40" />
+    <img src="https://user-images.githubusercontent.com/107795508/179226380-d2225451-72c5-480d-b521-c173213f57bb.png" width="40" height="40" />
   </a>
   
 </div>
