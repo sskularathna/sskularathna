@@ -18,4 +18,8 @@
     <img src="https://user-images.githubusercontent.com/107795508/179226380-d2225451-72c5-480d-b521-c173213f57bb.png" width="40" height="40" />
   </a>
   
+  <a href="https://www.linkedin.com/in/sujeewa-s-kularathna-112065170">
+    <img src="https://user-images.githubusercontent.com/107795508/179227203-5838ff6d-ce17-4c9f-abec-31ad77071333.png" width="40" height="40" />
+  </a>
+  
 </div>
