@@ -1,6 +1,6 @@
 ### Hello
 - I am a Software Engineering undergraduate.
-- I am from Sri Lanka. 🇱🇰
+- From Sri Lanka. 🇱🇰
 - I do like Linux and Opensource software. 🐧
 
 ### Find me on : 
